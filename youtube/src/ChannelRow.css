@@ -1,0 +1,44 @@
+.channelrow {
+  display: flex;
+  padding: 30px;
+  justify-content: space-between;
+}
+.first {
+  flex: 0.3;
+}
+.center {
+  flex: 0.4;
+}
+.first img {
+  height: 150px;
+  width: 150px;
+  margin-right: 20px;
+  margin-left: 40px;
+}
+.Last button {
+  background-color: black;
+  color: white;
+  height: 35px;
+  width: 100px;
+  border-radius: 20px;
+  font-size: 1rem;
+  font-weight: bold;
+}
+.center-1 {
+  display: flex;
+  align-items: center;
+}
+.center-1 h3 {
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+.center-2 {
+  display: flex;
+}
+.center-2 h4 {
+  margin-right: 5px;
+  margin-bottom: 5px;
+}
+.Last {
+  flex: 0.3;
+}

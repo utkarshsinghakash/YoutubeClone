@@ -1,0 +1,36 @@
+.videoRow {
+  display: flex;
+  margin-bottom: 30px;
+}
+
+.videoRow img {
+  height: 150px;
+  width: 270px;
+  margin-right: 20px;
+  border-radius: 10px;
+  border: 1px solid rgb(233, 233, 233);
+  transition: transform 0.3s ease-out;
+}
+.videoRow > img:hover {
+  transform: scale(1.05);
+}
+.videoRow-text {
+  text-align: left;
+}
+
+.videoRow-text h3 {
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+.videoRow-text p {
+  display: flex;
+  align-items: center;
+  font-weight: 550;
+  font-size: small;
+  margin-bottom: 10px;
+}
+.videoRow-text img {
+  height: 30px;
+  width: 30px;
+  border: none;
+}

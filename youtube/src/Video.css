@@ -1,0 +1,32 @@
+.video-card {
+  height: 230px;
+  width: 270px;
+  margin-right: 10px;
+  margin-bottom: 40px;
+  transition: transform 0.3s ease-out;
+}
+
+.video-card:hover {
+  transform: scale(1.05);
+}
+
+.thumbnail {
+  height: 140px;
+  width: 250px;
+  margin-bottom: 10px;
+}
+.videoinfo-img {
+  height: 30px;
+  width: 30px;
+  border-radius: 50%;
+  margin-right: 5px;
+}
+.video-info {
+  display: flex;
+}
+.videoinfo-content h4 {
+  font-weight: bold;
+}
+.videoinfo-content h6 {
+  font-weight: bold;
+}

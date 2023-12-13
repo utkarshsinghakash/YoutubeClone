@@ -1,0 +1,16 @@
+.recommondation {
+  flex: 0.8;
+  /* border: 1px solid black; */
+  background-color: #f9f9f9;
+  padding: 40px 20px;
+  padding-bottom: 0;
+  margin-right: 20px;
+}
+
+.recommondation h2 {
+  margin-bottom: 20px;
+}
+.Videos-box {
+  display: flex;
+  flex-wrap: wrap;
+}

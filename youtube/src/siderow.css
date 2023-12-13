@@ -1,0 +1,44 @@
+* {
+  font-family: "Montserrat", sans-serif;
+  font-family: "Roboto", sans-serif;
+}
+.siderow {
+  display: flex;
+  align-items: center;
+}
+.siderow-icons {
+  color: grey;
+  margin-right: 20px;
+  margin-left: 10px;
+  font-size: larger !important;
+}
+
+.siderow:hover {
+  background-color: rgb(226, 223, 223);
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.siderow h4 {
+  flex: 1;
+  font-size: 14px;
+  font-weight: 500;
+}
+.siderow:hover > .siderow-icons {
+  color: red;
+}
+.siderow:hover > .siderow-title {
+  font-weight: 1000;
+}
+
+.siderow.selected {
+  background-color: rgb(226, 223, 223);
+  border-radius: 10px;
+  cursor: pointer;
+}
+.selected .siderow-icons {
+  color: red;
+}
+.siderow.selected .siderow-title {
+  font-weight: bold;
+}

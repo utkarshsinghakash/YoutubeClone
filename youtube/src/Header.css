@@ -1,0 +1,68 @@
+.header {
+  display: flex;
+  align-items: center;
+  height: 50px;
+  justify-content: space-between;
+
+  line-height: 10px;
+  padding: 20px;
+  padding-top: 10px;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  background-color: white;
+}
+.header_logo {
+  height: 25px;
+  margin-left: 20px;
+  /* width: 100px; */
+}
+.Account_img {
+  height: 40px;
+  width: 40px;
+  border-radius: 50%;
+}
+.header_left {
+  display: flex;
+  align-items: center;
+}
+.header_center {
+  display: flex;
+  align-items: center;
+  width: 40%;
+}
+.header_center input {
+  height: 21px;
+  flex: 1;
+  border: 1px solid lightgrey;
+  border-right: none;
+  border-top-left-radius: 20px;
+  border-bottom-left-radius: 20px;
+  /* width: 100%; */
+}
+.header_icon {
+  display: flex;
+  align-items: center;
+}
+.searchIcon {
+  height: 25px;
+  background-color: rgb(238, 238, 238);
+  border: none;
+  border: 1px solid lightgrey;
+  border-left: none;
+  border-top-right-radius: 20px;
+  border-bottom-right-radius: 20px;
+}
+.header__icon {
+  margin-right: 20px;
+}
+.voice-recorder {
+  height: 25px;
+  margin-left: 10px;
+  border: 1px solid lightgrey;
+  border-radius: 50%;
+  background-color: rgb(238, 238, 238);
+}
+.voice-recorder:hover {
+  background-color: grey;
+}
