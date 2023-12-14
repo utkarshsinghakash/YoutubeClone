@@ -13,9 +13,10 @@
   background-color: white;
 }
 .header_logo {
-  height: 25px;
+  height: 120px;
   margin-left: 20px;
-  /* width: 100px; */
+  width: 120px;
+  margin-top: 7px;
 }
 .Account_img {
   height: 40px;
@@ -32,7 +33,7 @@
   width: 40%;
 }
 .header_center input {
-  height: 21px;
+  height: 32px;
   flex: 1;
   border: 1px solid lightgrey;
   border-right: none;
@@ -45,7 +46,7 @@
   align-items: center;
 }
 .searchIcon {
-  height: 25px;
+  height: 35px;
   background-color: rgb(238, 238, 238);
   border: none;
   border: 1px solid lightgrey;
@@ -57,7 +58,7 @@
   margin-right: 20px;
 }
 .voice-recorder {
-  height: 25px;
+  height: 32px;
   margin-left: 10px;
   border: 1px solid lightgrey;
   border-radius: 50%;

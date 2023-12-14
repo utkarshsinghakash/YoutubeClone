@@ -42,7 +42,7 @@ function SearchPage() {
         time="59 seconds ago"
         channel="Clever Programmer"
         title="Let's build Youtube Clone using ReactJs "
-        img="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/001/707/392/datas/original.png"
+        img="https://i.ytimg.com/vi/NT299zIk2JY/mqdefault.jpg"
       />
       <VideoRow
         views="1.4M"
@@ -50,8 +50,8 @@ function SearchPage() {
         desc="Do you want a free one hour training..."
         time="59 seconds ago"
         channel="Clever Programmer"
-        title="Let's build Youtube Clone using ReactJs "
-        img="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/001/707/392/datas/original.png"
+        title="Discover New Technology  "
+        img="https://i.ytimg.com/vi/jffY5B163RI/hqdefault.jpg"
       />
       <VideoRow
         views="1.4M"
@@ -59,8 +59,8 @@ function SearchPage() {
         desc="Do you want a free one hour training..."
         time="59 seconds ago"
         channel="Clever Programmer"
-        title="Let's build Youtube Clone using ReactJs "
-        img="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/001/707/392/datas/original.png"
+        title="ChatGpt vs Bard -The Difference"
+        img="https://i.ytimg.com/vi/k7USSwXDvTs/hqdefault.jpg"
       />
       <VideoRow
         views="1.4M"
@@ -68,8 +68,8 @@ function SearchPage() {
         desc="Do you want a free one hour training..."
         time="59 seconds ago"
         channel="Clever Programmer"
-        title="Let's build Youtube Clone using ReactJs "
-        img="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/001/707/392/datas/original.png"
+        title="7 New FrameWork need to know for Your Resume "
+        img="https://i.ytimg.com/vi/Lz3m4BI1EfY/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLA7i2gACetKtHahyLPbfxLe_OSw-g"
       />
       <VideoRow
         views="1.4M"
@@ -77,8 +77,8 @@ function SearchPage() {
         desc="Do you want a free one hour training..."
         time="59 seconds ago"
         channel="Clever Programmer"
-        title="Let's build Youtube Clone using ReactJs "
-        img="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/001/707/392/datas/original.png"
+        title="Top Interviews Question on ReactJS "
+        img="https://i.ytimg.com/vi/f3EbDbm8XqY/hqdefault.jpg"
       />
     </div>
   );
