@@ -4,7 +4,17 @@ import Video from "./Video";
 export default function RecommondationVideos() {
   return (
     <div class="recommondation">
-      <h2>Recommended</h2>
+      <div className="buttons">
+        <button className="btn-1">All</button>
+        <button>Cricket</button>
+        <button>Badminton</button>
+        <button>T-series</button>
+        <button>Wickets</button>
+        <button>Ranbir Kapoor</button>
+        <button>Finals</button>
+        <button>Mixes</button>
+        <button>Game shows</button>
+      </div>
       <div className="Videos-box">
         <Video
           img="https://cdn.sanity.io/images/7g6d2cj1/production/fa7aea4f9f9e19463f59b206ada7557063e84a51-1280x720.jpg?h=720&q=70&auto=format"
