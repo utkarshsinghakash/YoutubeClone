@@ -4,7 +4,7 @@ import Video from "./Video";
 export default function RecommondationVideos() {
   return (
     <div class="recommondation">
-      <h2>Recommanded</h2>
+      <h2>Recommended</h2>
       <div className="Videos-box">
         <Video
           img="https://i3.ytimg.com/vi/TEOQbkd6sz8/maxresdefault.jpg"
